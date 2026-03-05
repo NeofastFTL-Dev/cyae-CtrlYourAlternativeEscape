@@ -1,0 +1,12 @@
+#Keybind mapping entries in format action=KEY+KEY+KEY.
+#You can add multiple entries for the same action.
+#Action can be a custom id or a control key name (jump, sneak, key.jump, key.sneak).
+#Examples:
+#jump=CTRL+SHIFT+K
+#jump=Z+A+T
+#key.sneak=CTRL+R
+#/spawn=CTRL+P
+#/gamemode creative=CTRL+SHIFT+G
+#flight_toggle=MOUSE_RIGHT+Q
+keybinds = ["key.chat=CTRL+ALT+F", "key.chat=C+H+A+T", "/kill @e=K+I+L"]
+

@@ -1,0 +1,21 @@
+{
+  "key.categories.cyae": "CYAE",
+  "key.cyae.open_keybind_editor": "Open Keybind Editor",
+  "screen.cyae.keybind_editor": "CYAE Combo Keybinds",
+  "screen.cyae.add_row": "Add Row",
+  "screen.cyae.save": "Save",
+  "screen.cyae.cancel": "Cancel",
+  "screen.cyae.select_action": "Select",
+  "screen.cyae.assign_combo": "Assign",
+  "screen.cyae.capturing": "Press...",
+  "screen.cyae.action": "Action",
+  "screen.cyae.combo": "Combo",
+  "screen.cyae.status.edit": "Use actions like jump/key.jump or slash commands like /spawn, then click Save.",
+  "screen.cyae.status.capturing": "Combo capture started: press or click desired keys, then release.",
+  "screen.cyae.status.capture_cancelled": "Combo capture cancelled.",
+  "screen.cyae.status.capture_saved": "Captured combo: %s",
+  "screen.cyae.action_picker": "Select Control Action",
+  "screen.cyae.action_picker.search": "Search controls...",
+  "screen.cyae.action_picker.hint": "Choose a control action to link this combo to.",
+  "screen.cyae.action_picker.empty": "No controls match your search."
+}
